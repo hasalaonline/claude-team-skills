@@ -1,0 +1,8 @@
+{
+  "name": "team-standards",
+  "version": "1.0.0",
+  "description": "Commit message and PR description conventions used across the team",
+  "author": {
+    "name": "Hasala"
+  }
+}
