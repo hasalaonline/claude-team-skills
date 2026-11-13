@@ -1,0 +1,14 @@
+{
+  "extraKnownMarketplaces": {
+    "team-skills": {
+      "source": {
+        "source": "github",
+        "repo": "hasalaonline/claude-team-skills"
+      },
+      "autoUpdate": true
+    }
+  },
+  "enabledPlugins": {
+    "team-standards@team-skills": true
+  }
+}
