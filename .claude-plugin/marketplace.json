@@ -1,0 +1,14 @@
+{
+  "name": "team-skills",
+  "description": "Shared Claude skills for our engineering team — one source of truth",
+  "owner": {
+    "name": "Hasala"
+  },
+  "plugins": [
+    {
+      "name": "team-standards",
+      "source": "./plugins/team-standards",
+      "description": "Commit message and PR description conventions used across the team"
+    }
+  ]
+}
