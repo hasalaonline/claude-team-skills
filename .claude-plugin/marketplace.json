@@ -8,7 +8,7 @@
     {
       "name": "team-standards",
       "source": "./plugins/team-standards",
-      "description": "Commit message and PR description conventions used across the team"
+      "description": "Commit message, PR description and PR review conventions used across the team"
     }
   ]
 }
